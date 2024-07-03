@@ -16,7 +16,7 @@
 
 
 <sup>
-FoA Orion Comms is a Diagnostic & Firmware Tool for the FG Falcon. It is capable of reading and clearing DTCs, conducting module on demand self tests, and diagnostic tool functions. It can read out the Instrument Cluster EEPROM via the OBD port and it can read, write and edit the firmware of the Powertrain Control Module. 
+FoA Orion Comms is a Diagnostic & Firmware Tool for the FG Falcon. It is capable of reading and clearing DTCs, conducting module on demand self tests, and diagnostic tool functions. It can read out the Instrument Cluster EEPROM via the OBD port and it can read, write and edit the firmware of the Powertrain Control Module. Available for purchase from https://facebook.com/testerPresent. 
 <br/></sup>
 
 ![image](https://github.com/jakka351/FoA-Orion-Comms/assets/57064943/b3856fe1-2d63-47b4-8382-087a95bf2225)
