@@ -22,3 +22,6 @@ FoA Orion Comms is a Diagnostic & Firmware Tool for the FG Falcon. It is capable
 ![image](https://github.com/jakka351/FoA-Orion-Comms/assets/57064943/b3856fe1-2d63-47b4-8382-087a95bf2225)
 
 ![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
+
+#Features
+	
