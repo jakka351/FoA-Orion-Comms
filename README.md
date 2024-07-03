@@ -19,7 +19,7 @@ FoA Orion Comms is a Diagnostic & Firmware Tool for the FG Falcon. It is capable
 <br/></sup>
 
 ![image](https://github.com/jakka351/FoA-Orion-Comms/assets/57064943/b3856fe1-2d63-47b4-8382-087a95bf2225)
-![image](https://github.com/jakka351/FoA-Orion-Comms/assets/57064943/9bd152e0-8f20-4bf8-99d4-fef42771278f)
+![image](https://github.com/jakka351/FoA-Orion-Comms/assets/57064943/10da5df2-f3ce-4968-b895-33781202ec31)
 ![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
 
 
@@ -53,5 +53,5 @@ FoA Orion Comms is a Diagnostic & Firmware Tool for the FG Falcon. It is capable
 ![image](https://github.com/jakka351/FoA-Orion-Comms/assets/57064943/6a20a4af-5322-4ab5-824b-4d7674dfec0c)
 ![image](https://github.com/jakka351/FoA-Orion-Comms/assets/57064943/d90ee8e7-1c82-4f73-92ac-eba02bfe2805)
 ![image](https://github.com/jakka351/FoA-Orion-Comms/assets/57064943/0fbdbbe7-ebfd-412c-989d-baf25362a669)
-![image](https://github.com/jakka351/FoA-Orion-Comms/assets/57064943/10da5df2-f3ce-4968-b895-33781202ec31)
+
 ![image](https://github.com/jakka351/FoA-Orion-Comms/assets/57064943/9bd152e0-8f20-4bf8-99d4-fef42771278f)
